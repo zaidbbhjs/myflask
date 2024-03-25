@@ -107,5 +107,4 @@ def de(text,num):
 		return {'bad': 'user not fond'}
 		
 		
-if __name__ == '__main__':
-	app.run(debug=True)
+#
